@@ -23,3 +23,4 @@ if __name__ == "__main__":
                                     )
         #调用add_case函数返回值
         runner.run(all_case())
+        print()
